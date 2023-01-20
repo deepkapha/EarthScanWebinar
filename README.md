@@ -7,7 +7,7 @@ Welcome to our GitHub Page.
 Here are few topics that we'll be covering in the coming webinars.
 
 - Well Correlation
-![image](asset/W2W.jpg)
+![image](asset/w2w.jpg)
 Reference: Well-to-well correlation and identifying lithological boundaries by principal component analysis of well-logs
 
 - Seimsic Facies Analysis
