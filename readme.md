@@ -72,7 +72,7 @@ In this section, attendees will have an overview of the topics that will be cove
 </tr>
 </table>
 
-### Webinar 1: A Guide to deep learning applications in GEOSCIENCE and SubSurface {#webinar-1}
+### Webinar 1: A Guide to deep learning applications in GEOSCIENCE and SubSurface
 
 <table>
 <tr>
