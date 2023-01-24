@@ -92,3 +92,7 @@ In this webinar, we discussed the application of AI and ML in the field of geosc
 ## Additional Resources
 
 Soon to be updated
+
+## Support
+
+Reach out to <a href="[https://www.example.com](https://www.linkedin.com/in/quamer-nasim-89b25897/)]">M Quamer Nasim</a>  (), Tannistha Maiti () & Tarry Singh () incase you've any queries
