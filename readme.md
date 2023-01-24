@@ -9,13 +9,18 @@
 
 - [About](#about)
 - <details open="open">
-    <summary>Explore the cutting-edge</summary>
+    <summary><a href="#explore-the-cutting-edge">Explore the cutting-edge</a></summary>
     <ul>
-      <li><a href="#webinar-1-a-guide-to-deep-learning-applications-in-geoscience-and-subsurface">A Guide to deep learning applications in GEOSCIENCE and SubSurface</a>
-        <ul>
-          <li><a href="#key-takeaways-from-the-webinar">Key takeaways from the webinar</a></li>
-        </ul>
-      </li>
+      <li><a href="#webinar-1-a-guide-to-deep-learning-applications-in-geoscience-and-subsurface-webinar-1">Webinar 1: A Guide to deep learning applications in GEOSCIENCE and SubSurface</a></li>
+    </ul>
+    <ul>
+      <li><a href="#webinar-2-unlocking-the-power-of-data---w2w-correlation-exploration-and-augmentation-techniques">Webinar 2: Unlocking the Power of Data - W2W Correlation, Exploration, and Augmentation Techniques</a></li>
+    </ul>
+    <ul>
+      <li><a href="#webinar-3-the-science-and-art-of-well-to-well-correlation---architecture-design-modeling--training-pipeline">Webinar 3: The Science and Art of Well-to-Well Correlation - Architecture Design, Modeling & Training Pipeline</a></li>
+    </ul>
+    <ul>
+      <li><a href="#webinar-4-advanced-machine-learning-techniques---transformer-model-hungarian-matcher-and-detr-model">Webinar 4: Advanced Machine Learning Techniques - Transformer Model, Hungarian Matcher and DETR Model</a></li>
     </ul>
     </details>
 - [Additional Resources](#additional-resources)
@@ -67,7 +72,7 @@ In this section, attendees will have an overview of the topics that will be cove
 </tr>
 </table>
 
-### Webinar 1: A Guide to deep learning applications in GEOSCIENCE and SubSurface 
+### Webinar 1: A Guide to deep learning applications in GEOSCIENCE and SubSurface {#webinar-1}
 
 <table>
 <tr>
@@ -88,30 +93,76 @@ In this webinar, we discussed the application of AI and ML in the field of geosc
     - Understanding of the potential of AI in the geoscience industry and the tools and knowledge to research, develop and deploy their own deep learning applications.
     - Understanding of the intersection of operational innovation where AI can provide sustainable solutions inside the company's landscape.
     - Understanding of the importance of AI in the industry and how it can help companies to increase their efficiency, and reduce time, effort and cost while increasing employee satisfaction and overall customer satisfaction. 
-
-## Additional Resources
+    
+    
+### Webinar 2: Unlocking the Power of Data - W2W Correlation, Exploration, and Augmentation Techniques
 
 <table>
 <tr>
 <td>
-    
-Soon to be updated
-    
+
+In this section, attendees will learn about the latest techniques and technologies used in well-to-well correlation. We will cover data exploration and dataset generation, data augmentation techniques and their application in subsurface applications. Additionally, we will provide an introduction to the previous work on this topic, specifically the Aramco paper "Similarity learning for wells based on logging data". Attendees will gain an understanding of the potential of these techniques and technologies in improving the performance of well-to-well correlation and best practices for their implementation.
+
 </td>
 </tr>
 </table>
 
-## Support
+#### Key takeaways from the webinar:
+
+    - Understanding of the latest techniques and technologies used in well-to-well correlation.
+    - Knowledge of data exploration and dataset generation and data augmentation techniques and their application in subsurface applications.
+    - Introduction to previous work on well-to-well correlation, specifically the Aramco paper "Similarity learning for wells based on logging data".
+    - Understanding of the potential of these techniques and technologies in improving the performance of well-to-well correlation.
+    - Best practices for the implementation of these techniques and technologies.
+    - Hands-on experience with well-to-well correlation through case studies and exercises.
+    - Gain the skills and knowledge to master the art of well-to-well correlation and take your work to the next level.
+    
+### Webinar 3: The Science and Art of Well-to-Well Correlation - Architecture Design, Modeling & Training Pipeline
 
 <table>
 <tr>
 <td>
+
+In this section, attendees will learn about the science and art of well-to-well correlation, with a specific focus on the design and implementation of correlation pipelines. We will cover the application of the Aramco paper "Similarity learning for wells based on logging data" in the design of experiments and the use of UNET pretrained models for well-to-well correlation. Attendees will gain an understanding of the best practices for pipeline design and the use of advanced models in well-to-well correlation. Additionally, attendees will get a walkthrough of UNET pretrained models, which are widely used in image segmentation tasks.
+
+</td>
+</tr>
+</table>
+
+#### Key takeaways from the webinar:
+
+    - Understanding well-to-well correlation and the application of the Aramco paper in the design of experiments.
+    - Knowledge of the use of UNET pretrained models for well-to-well correlation and their application in image segmentation tasks.
+    - Best practices for pipeline design and the use of advanced models in well-to-well correlation.
+
+### Webinar 4: Advanced Machine Learning Techniques - Transformer Model, Hungarian Matcher and DETR Model
+
+<table>
+<tr>
+<td>
+
+In this section, attendees will learn about the advanced machine learning techniques of Transformer, Hungarian Matcher, and DETR model. We will provide an introduction to these concepts and explain how they can be applied in various domains of geosciences. Attendees will gain an understanding of the importance of these techniques in improving the performance of models and best practices for their implementation. We will also cover the key considerations when working with these techniques and how to optimize them for specific applications.
+
+</td>
+</tr>
+</table>
+
+#### Key takeaways from the webinar:
+
+    - Understanding of advanced machine learning techniques of Transformer, Hungarian loss, and loss function theory.
+    - Introduction to these concepts and an explanation of their application in various domains of geosciences.
+    - Understanding of the importance of these techniques in improving the performance of models.
+    - Best practices for implementation of these techniques.
+    - Key considerations when working with these techniques and how to optimize them for specific applications.
+
+## Additional Resources
+
+Soon to be updated
     
+## Support
+
 Reach out to peoples mentioned below incase you've any queries that you had regarding webinars
 - <a href="https://www.example.com](https://www.linkedin.com/in/quamer-nasim-89b25897/">M Quamer Nasim</a> (quamer.nasim@deepkapha.com)
 - <a href="https://www.linkedin.com/in/tannisthamaiti/">Tannistha Maiti</a> (tannistha.maiti@deepkapha.com)
 <!-- - <a href="https://www.linkedin.com/in/tarrysingh/">Tarry Singh</a> (tarry.singh@deepkapha.com)  -->
 
-</td>
-</tr>
-</table>
