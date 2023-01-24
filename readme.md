@@ -1,6 +1,6 @@
 <img src="icon.png" align="right" />
 
-# EarthScanWebinar ![image](logo2.png)
+# Awesome EarthScanWebinar ![image](logo2.png)
 
 > Repository for all the reference materials talked about in EarthScan Webinars along with additional resources
 
@@ -18,13 +18,8 @@
       </li>
     </ul>
     </details>
-- Additional Resources
-- [Acknowledgements](#acknowledgements)
-- Installation
-- Usage
-- [Contributing](#contributing)
+- [Additional Resources](#additional-resources)
 - [Support](#support)
-- [License](#license)
 
 </details>
 
@@ -93,28 +88,7 @@ In this webinar, we discussed the application of AI and ML in the field of geosc
     - Understanding of the potential of AI in the geoscience industry and the tools and knowledge to research, develop and deploy their own deep learning applications.
     - Understanding of the intersection of operational innovation where AI can provide sustainable solutions inside the company's landscape.
     - Understanding of the importance of AI in the industry and how it can help companies to increase their efficiency, and reduce time, effort and cost while increasing employee satisfaction and overall customer satisfaction. 
-  
 
+## Additional Resources
 
-## Articles
-
-
-
-## Tools
-
-
-
-## Creating GIFs
-
-
-
-## Get Feedback
-
-
-## Contribute
-
-## License
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Matias Singers](https://mts.io) has waived all copyright and related or neighboring rights to this work.
+Soon to be updated
