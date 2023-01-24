@@ -162,7 +162,7 @@ Soon to be updated
 ## Support
 
 Reach out to peoples mentioned below incase you've any queries that you had regarding webinars
-- <a href="https://www.example.com](https://www.linkedin.com/in/quamer-nasim-89b25897/">M Quamer Nasim</a> (quamer.nasim@deepkapha.com)
+- <a href="https://www.linkedin.com/in/quamer-nasim-89b25897/">M Quamer Nasim</a> (quamer.nasim@deepkapha.com)
 - <a href="https://www.linkedin.com/in/tannisthamaiti/">Tannistha Maiti</a> (tannistha.maiti@deepkapha.com)
 <!-- - <a href="https://www.linkedin.com/in/tarrysingh/">Tarry Singh</a> (tarry.singh@deepkapha.com)  -->
 
