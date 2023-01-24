@@ -3,6 +3,25 @@
 # Awesome README [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 > A curated list of awesome READMEs
 
+<details open="open">
+<summary>Table of Contents</summary>
+
+- [About](#about)
+  - [Built With](#built-with)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Usage](#usage)
+    - [Cookiecutter template](#cookiecutter-template)
+    - [Manual setup](#manual-setup)
+    - [Variables reference](#variables-reference)
+- [Roadmap](#roadmap)
+- [Contributing](#contributing)
+- [Support](#support)
+- [License](#license)
+- [Acknowledgements](#acknowledgements)
+
+</details>
+
 Elements in beautiful READMEs include, but are not limited to: images, screenshots, GIFs, text formatting, etc.
 
 ## Examples
