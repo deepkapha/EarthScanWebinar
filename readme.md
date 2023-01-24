@@ -11,7 +11,7 @@
 - <details open="open">
     <summary><a href="#explore-the-cutting-edge">Explore the cutting-edge</a></summary>
     <ul>
-      <li><a href="#webinar-1-a-guide-to-deep-learning-applications-in-geoscience-and-subsurface-webinar-1">Webinar 1: A Guide to deep learning applications in GEOSCIENCE and SubSurface</a></li>
+      <li><a href="#webinar-1-a-guide-to-deep-learning-applications-in-geoscience-and-subsurface">Webinar 1: A Guide to deep learning applications in GEOSCIENCE and SubSurface</a></li>
     </ul>
     <ul>
       <li><a href="#webinar-2-unlocking-the-power-of-data---w2w-correlation-exploration-and-augmentation-techniques">Webinar 2: Unlocking the Power of Data - W2W Correlation, Exploration, and Augmentation Techniques</a></li>
