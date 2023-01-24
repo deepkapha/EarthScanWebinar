@@ -157,8 +157,9 @@ In this section, attendees will learn about the advanced machine learning techni
 
 ## Additional Resources
 
-Soon to be updated
-    
+<li><a href="https://xeek.ai/challenges/force-well-logs">Dataset for W2W Correlation can be downloaded from the challenge: FORCE: Machine Predicted Lithology</a></li>
+<li><a href="https://arxiv.org/abs/1706.03762">Transformer Paper that will be the backbone of our webinars: Attention Is All You Need</a></li>
+
 ## Support
 
 Reach out to peoples mentioned below incase you've any queries that you had regarding webinars
