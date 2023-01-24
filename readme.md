@@ -8,7 +8,16 @@
 <summary>Table of Contents</summary>
 
 - [About](#about)
-- Explore the cutting-edge
+- <details open="open">
+    <summary>Explore the cutting-edge</summary>
+    <ul>
+      <li><a href="#webinar-1-a-guide-to-deep-learning-applications-in-geoscience-and-subsurface">A Guide to deep learning applications in GEOSCIENCE and SubSurface</a>
+        <ul>
+          <li><a href="#key-takeaways-from-the-webinar">Key takeaways from the webinar</a></li>
+        </ul>
+      </li>
+    </ul>
+    </details>
 - Additional Resources
 - [Acknowledgements](#acknowledgements)
 - Installation
@@ -43,16 +52,50 @@ Discover the latest advancements in AI and ML applied to geoscience with our upc
 - Advanced machine learning models and their applications
 - Guest speaker sessions on current research and industry developments
 - Tools and technologies for data visualization and model deployment.
-
-</details>
+  
+</td>
+</tr>
+</table>
   
 ---
 
 
 ## Explore the cutting-edge
+
+<table>
+<tr>
+<td>
+  
 In this section, attendees will have an overview of the topics that will be covered in the upcoming webinars. These topics will cover the latest advancements in the field of AI and ML applied to geoscience, including techniques for data exploration and analysis, data augmentation techniques, machine learning pipeline design and implementation, advanced machine learning models and their applications, guest speaker sessions on current research and industry developments, and tools and technologies for data visualization and model deployment.
   
+</td>
+</tr>
+</table>
+
+### Webinar 1: A Guide to deep learning applications in GEOSCIENCE and SubSurface 
+
+<table>
+<tr>
+<td>
+
+In this webinar, we discussed the application of AI and ML in the field of geoscience, with a specific focus on well-to-well correlation. We provided a hands-on learning experience through case studies and gave attendees access to curated notebooks and presentations. Our goal was to help attendees understand the potential of AI in the geoscience industry and provide them with the tools and knowledge to research, develop and deploy their own deep learning applications.
+
+</td>
+</tr>
+</table>
+
+#### Key takeaways from the webinar:
+
+    - Understanding of the current state of AI and ML in the oil and gas industry, and the potential benefits of automation in subsurface applications
+    - Knowledge of the use case of well-to-well correlation and the potential of deep learning in various domains of geosciences
+    - Insight into the key achievements of companies who have implemented AI automation in their operations
+    - Hands-on learning experience through case studies and access to curated notebooks and presentations
+    - Understanding of the potential of AI in the geoscience industry and the tools and knowledge to research, develop and deploy their own deep learning applications.
+    - Understanding of the intersection of operational innovation where AI can provide sustainable solutions inside the company's landscape.
+    - Understanding of the importance of AI in the industry and how it can help companies to increase their efficiency, and reduce time, effort and cost while increasing employee satisfaction and overall customer satisfaction. 
   
+
+
 ## Articles
 
 
