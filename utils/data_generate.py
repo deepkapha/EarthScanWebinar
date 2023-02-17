@@ -4,6 +4,20 @@ import csv
 from utils.well_log_plots import log_plots
 
 def log_plot_image(logs,plotname,txtname,i,patch_height):
+    """
+    Plots a set of well log curves for a specified depth interval in a given logs DataFrame and saves the resulting image
+    to a file. It also saves a text file containing the lithology labels for the same depth interval.
+
+    Args:
+    - logs: pandas DataFrame containing well log data.
+    - plotname: string specifying the name of the output image file.
+    - txtname: string specifying the name of the output text file.
+    - i: integer specifying the index of the top of the depth interval of interest.
+    - patch_height: integer specifying the height of the depth interval of interest.
+
+    Returns: None
+    """
+
     _, ax = plt.subplots(1,19, figsize = (20, 10), sharey = True, gridspec_kw = {'wspace':0, 'hspace':0})
     for axis in ax:
         axis.invert_yaxis()
@@ -105,6 +119,24 @@ def randon_list_generator():
         return randon_list_generator()
 
 def log_plot_image_random(logs,plotname,txtname,i,patch_height,randomlist,well_train,well_train_names):
+    """
+    Creates a plot of log curves for a random selection of wells, and saves the plot to a file. Also saves the group
+    data to a text file.
+
+    Parameters:
+    logs (pandas.DataFrame): DataFrame containing log data.
+    plotname (str): Name of the output plot file.
+    txtname (str): Name of the output text file.
+    i (int): Starting index for the patch of data.
+    patch_height (int): Number of data points in the patch.
+    randomlist (list): List of indices for the randomly selected wells to plot.
+    well_train (pandas.DataFrame): DataFrame containing well data.
+    well_train_names (list): List of well names.
+
+    Returns:
+    None
+    """
+    
     _, ax = plt.subplots(1,19, figsize = (20, 10), sharey = True, gridspec_kw = {'wspace':0, 'hspace':0})
     j=0
     for i in randomlist:
@@ -121,11 +153,25 @@ def log_plot_image_random(logs,plotname,txtname,i,patch_height,randomlist,well_t
         f.close()
 
 def log_plot_image_invert(logs,plotname,txtname,i,patch_height):
+    """
+    Creates a plot of log curves and saves it to a file, as well as a CSV file containing log data.
+
+    Parameters:
+        logs (pandas.DataFrame): A DataFrame containing the log data.
+        plotname (str): The name of the output plot file.
+        txtname (str): The name of the output CSV file.
+        i (int): The index of the starting depth.
+        patch_height (int): The number of rows of log data to include in the plot and CSV file.
+
+    Returns:
+        None.
+    """
+
     _, ax = plt.subplots(1,19, figsize = (20, 10), sharey = True, gridspec_kw = {'wspace':0, 'hspace':0})
     for axis in ax:
         axis.invert_yaxis()
         axis.axis('off')
-        
+
     ax[0].plot(logs.CALI[i:i+patch_height], list(range(i,i+patch_height)), 'b')
     ax[0].set_xlim(6, 24)
 
