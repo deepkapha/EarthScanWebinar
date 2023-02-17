@@ -199,3 +199,7 @@ def log_plot(logs):
     xaxis(ax_nphi_wrap, -0.15, 1.05, 25, 'r', 'NPHI', 10, 1.029)
 
     xaxis(ax[3], 40, 240, 0, 'b', 'Sonic', 10, 1.003)
+
+    ax[4].set_title('Group')
+
+    plt.show()
