@@ -2,6 +2,7 @@ from matplotlib import pyplot as plt
 import random
 import csv
 from utils.well_log_plots import log_plots
+from PIL import Image
 
 def log_plot_image(logs,plotname,txtname,i,patch_height):
     """
@@ -234,10 +235,10 @@ def log_plot_image_invert(logs,plotname,txtname,i,patch_height):
     ax[18].set_xlim(6, 24)
      
     plt.savefig(plotname,bbox_inches ="tight",transparent = False)
-    #im = Image.open(plotname)
-    #newsize = (800, 360)
-    #im = im.resize(newsize)
-    #im =im.save(plotname)
+    # im = Image.open(plotname)
+    # newsize = (800, 360)
+    # im = im.resize(newsize)
+    # im =im.save(plotname)
 
     with open(txtname, 'w', encoding='UTF8') as f:
         writer = csv.writer(f)
