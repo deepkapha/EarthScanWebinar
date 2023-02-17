@@ -135,7 +135,7 @@ def percet_missing_data(dataframe):
 
 def group_identification(data):
     """
-    Prints and returns the names of the unique groups in the given pandas DataFrame.
+    Identifies the unique groups in the given pandas DataFrame.
 
     Parameters:
     -----------
@@ -148,26 +148,26 @@ def group_identification(data):
         A pandas Index object containing the names of the unique groups in the input DataFrame.
     """
     value_counts = data.GROUP.value_counts()
-    print('Displaying all the GROPUs available in the dataset\nTotal {} GROUPS found in the dataset'.format(value_counts.count()))
-    print(value_counts)
-    return value_counts.index
+    return value_counts
 
 def remove_column_with_half_of_nan_value(data):
     """
-    Removes columns from the given pandas DataFrame that have more than 50% missing values.
+    Remove columns from the input data that have more than 50% missing values.
 
-    Parameters:
-    -----------
-    data : pandas.DataFrame
-        The DataFrame to remove columns from.
+    Parameters
+    ----------
+    data: pandas DataFrame
+        The input data.
 
-    Returns:
-    --------
-    None
+    Returns
+    -------
+    pandas DataFrame
+        The modified input data with selected columns removed.
     """
-    
+
     print("Removing columns which have 50% of missing data i.e., 'SGR', 'ROP', 'DTS', 'DCAL', 'MUDWEIGHT', 'RMIC', 'ROPA', 'RXO', 'BS', 'DRHO'")
-    data.drop(['SGR', 'ROP', 'DTS', 'DCAL', 'MUDWEIGHT', 'RMIC', 'ROPA', 'RXO', 'BS', 'DRHO'], axis = 1, inplace = True)
+    data = data.drop(['SGR', 'ROP', 'DTS', 'DCAL', 'MUDWEIGHT', 'RMIC', 'ROPA', 'RXO', 'BS', 'DRHO'], axis = 1)
+    return data
 
 def get_nonoverlapping_groups(train_group, test_group):
     """
@@ -220,20 +220,22 @@ def missing_group_info(data):
 
 def remove_formation_column(data):
     """
-    Removes the 'FORMATION' column from the given DataFrame.
+    Remove the 'FORMATION' column from the input dataset.
 
     Parameters:
     -----------
     data : pandas.DataFrame
-        The DataFrame from which to remove the 'FORMATION' column.
+        Input dataset from which the 'FORMATION' column needs to be removed.
 
     Returns:
     --------
-    None
+    pandas.DataFrame
+        A new DataFrame with the 'FORMATION' column removed.
     """
-    
+
     print('Removing FORMATION column from the dataset')
-    data.drop(['FORMATION'], axis = 1, inplace = True)
+    data = data.drop(['FORMATION'], axis = 1)
+    return data
 
 def get_undeviated_well_info(data):
     """
@@ -262,7 +264,7 @@ def get_undeviated_well_info(data):
                                                                                                           well_names))
     return well_names
 
-def get_well_with_no_group_info(data, total_num_wells, well_names):
+def get_well_with_missing_group_info(data, total_num_wells, well_names):
     """
     Returns a list of well names that have missing information on the 'GROUP' column in the input dataset.
 

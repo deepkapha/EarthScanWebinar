@@ -1,5 +1,7 @@
 import numpy as np
 from matplotlib import pyplot as plt
+from sklearn.preprocessing import LabelEncoder
+import pandas as pd
 
 def plot3Dlocation(rand_well):
     """
