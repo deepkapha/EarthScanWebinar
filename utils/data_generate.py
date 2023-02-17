@@ -86,6 +86,7 @@ def log_plot_image(logs,plotname,txtname,i,patch_height):
     ax[18].set_xlim(6, 24)
 
     plt.savefig(plotname,bbox_inches ="tight",transparent = False)
+    plt.close()
 
     with open(txtname, 'w', encoding='UTF8') as f:
         writer = csv.writer(f)
@@ -145,6 +146,7 @@ def log_plot_image_random(logs,plotname,txtname,i,patch_height,randomlist,well_t
         op(well_train[well_train['WELL'] == well_train_names[0]],ax[j],0,700)
         j=j+1
     plt.savefig(plotname,bbox_inches ="tight",transparent = False)
+    plt.close()
 
 
     with open(txtname, 'w', encoding='UTF8') as f:
@@ -235,10 +237,11 @@ def log_plot_image_invert(logs,plotname,txtname,i,patch_height):
     ax[18].set_xlim(6, 24)
      
     plt.savefig(plotname,bbox_inches ="tight",transparent = False)
-    im = Image.open(plotname)
-    newsize = (800, 360)
-    im = im.resize(newsize)
-    im =im.save(plotname)
+    plt.close()
+    # im = Image.open(plotname)
+    # newsize = (800, 360)
+    # im = im.resize(newsize)
+    # im =im.save(plotname)
 
     with open(txtname, 'w', encoding='UTF8') as f:
         writer = csv.writer(f)
