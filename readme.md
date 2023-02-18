@@ -89,11 +89,7 @@ In this section, attendees will have an overview of the topics that will be cove
     - Understanding of the current state of AI and ML in the oil and gas industry, and the potential benefits of automation in subsurface applications
     - Knowledge of the use case of well-to-well correlation and the potential of deep learning in various domains of geosciences
     - Insight into the key achievements of companies who have implemented AI automation in their operations
-    - Hands-on learning experience through case studies and access to curated notebooks and presentations
-    - Understanding of the potential of AI in the geoscience industry and the tools and knowledge to research, develop and deploy their own deep learning applications.
-    - Understanding of the intersection of operational innovation where AI can provide sustainable solutions inside the company's landscape.
-    - Understanding of the importance of AI in the industry and how it can help companies to increase their efficiency, and reduce time, effort and cost while increasing employee satisfaction and overall customer satisfaction. 
-    
+       
     
 ### Webinar 2: Unlocking the Power of Data - W2W Correlation, Exploration, and Augmentation Techniques
 
