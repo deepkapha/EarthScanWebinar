@@ -119,6 +119,8 @@ In this section, attendees will have an overview of the topics that will be cove
     - Hands-on experience with well-to-well correlation through case studies and exercises.
     - Gain the skills and knowledge to master the art of well-to-well correlation and take your work to the next level.
     
+---
+    
 ### Webinar 3: The Science and Art of Well-to-Well Correlation - Architecture Design, Modeling & Training Pipeline
 
 <table>
