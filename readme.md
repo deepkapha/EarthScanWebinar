@@ -76,7 +76,7 @@ In this section, attendees will have an overview of the topics that will be cove
 <tr>
 
 
-| Agenda | #Link to presentation    | 
+| Agenda | #Links     | 
 | :---:   | :---: |
 |<p align="justify">![alt text](https://github.com/codex-team/icons/blob/master/src/icons/direction-up-right.svg "Logo Title Text 1")Discussed the application of AI and ML in the field of Energy. Our goal was to help attendees understand the potential of AI in the geoscience industry and provide them with the tools and knowledge to research, develop and deploy their own deep learning applications.</p>| <li><a href="https://github.com/deepkapha/EarthScanWebinar/blob/main/presentations/week1">Presentation Week 1</a></li>   | 
 
