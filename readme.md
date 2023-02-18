@@ -73,7 +73,7 @@ In this section, attendees will have an overview of the topics that will be cove
 
 ---
 
-###  Webinar 1: A Guide to deep learning applications in GEOSCIENCE and SubSurface <img src=https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg width="22" >
+###  Webinar 1: A Guide to deep learning applications in GEOSCIENCE and SubSurface <img src=https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg width="24" >
 
 <table>
 <tr>
@@ -95,7 +95,7 @@ In this section, attendees will have an overview of the topics that will be cove
        
 ---
 
-### Webinar 2: Unlocking the Power of Data - W2W Correlation, Exploration, and Augmentation Techniques <img src=https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg width="22" >
+### Webinar 2: Unlocking the Power of Data - W2W Correlation, Exploration, and Augmentation Techniques <img src=https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg width="24" >
 <table>
 <tr>
 
@@ -120,7 +120,7 @@ In this section, attendees will have an overview of the topics that will be cove
     
 ---
     
-### Webinar 3: SOTA - Architecture Design, Modeling & Training Pipeline <img src=https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg width="22" >
+### Webinar 3: SOTA - Architecture Design, Modeling & Training Pipeline <img src=https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg width="24" >
 
 <table>
 <tr>
