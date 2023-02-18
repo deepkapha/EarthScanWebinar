@@ -32,7 +32,7 @@
 ---
 
 ## About
-![alt text](https://github.com/deepkapha/EarthScanWebinar/blob/main/images/imga.png "Logo Title Text 1")
+![alt text](https://github.com/deepkapha/EarthScanWebinar/blob/main/asset/imga.png "Logo Title Text 1")
 <table>
 <tr>
 
