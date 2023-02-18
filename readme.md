@@ -120,7 +120,7 @@ In this section, attendees will have an overview of the topics that will be cove
     
 ---
     
-### Webinar 3: The Science and Art of Well-to-Well Correlation - Architecture Design, Modeling & Training Pipeline <img src=https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg width="22" >
+### Webinar 3: SOTA - Architecture Design, Modeling & Training Pipeline <img src=https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg width="22" >
 
 <table>
 <tr>
