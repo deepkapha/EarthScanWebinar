@@ -79,7 +79,7 @@ In this section, attendees will have an overview of the topics that will be cove
 
 | Agenda | #Link to presentation    | 
 | :---:   | :---: |
-| Discussed the application of AI and ML in the field of Energy. Our goal was to help attendees understand the potential of AI in the geoscience industry and provide them with the tools and knowledge to research, develop and deploy their own deep learning applications. | 301   | 
+| ![alt text](https://github.com/deepkapha/EarthScanWebinar/blob/main/asset/pointing-right-finger-svgrepo-com.svg "Logo Title Text 1")Discussed the application of AI and ML in the field of Energy. Our goal was to help attendees understand the potential of AI in the geoscience industry and provide them with the tools and knowledge to research, develop and deploy their own deep learning applications. | 301   | 
 
 
 </tr>
