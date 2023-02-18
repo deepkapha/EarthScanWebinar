@@ -32,10 +32,10 @@
 ---
 
 ## About
-
+![alt text](https://github.com/deepkapha/EarthScanWebinar/blob/main/images/imga.png "Logo Title Text 1")
 <table>
 <tr>
-![alt text](https://github.com/deepkapha/EarthScanWebinar/blob/main/images/imga.png "Logo Title Text 1")
+
 
 The EarthScan webinars are designed to share our knowledge and expertise with the broader data science community. Through a series of interactive sessions, attendees will learn about the latest developments in machine learning and artificial intelligence as applied to geoscience, as well as best practices for data exploration and analysis. Our goal is to provide attendees with the tools and knowledge they need to take their research and projects to the next level.
 
