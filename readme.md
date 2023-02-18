@@ -96,11 +96,11 @@ In this webinar, we discussed the application of AI and ML in the field of geosc
 
 <table>
 <tr>
-<td>
+
 
 In this section, attendees will learn about the latest techniques and technologies used in well-to-well correlation. We will cover data exploration and dataset generation, data augmentation techniques and their application in subsurface applications. Additionally, we will provide an introduction to the previous work on this topic, specifically the Aramco paper "Similarity learning for wells based on logging data". Attendees will gain an understanding of the potential of these techniques and technologies in improving the performance of well-to-well correlation and best practices for their implementation.
 
-</td>
+
 </tr>
 </table>
 
@@ -118,11 +118,11 @@ In this section, attendees will learn about the latest techniques and technologi
 
 <table>
 <tr>
-<td>
+
 
 In this section, attendees will learn about the science and art of well-to-well correlation, with a specific focus on the design and implementation of correlation pipelines. We will cover the application of the Aramco paper "Similarity learning for wells based on logging data" in the design of experiments and the use of UNET pretrained models for well-to-well correlation. Attendees will gain an understanding of the best practices for pipeline design and the use of advanced models in well-to-well correlation. Additionally, attendees will get a walkthrough of UNET pretrained models, which are widely used in image segmentation tasks.
 
-</td>
+
 </tr>
 </table>
 
@@ -136,11 +136,11 @@ In this section, attendees will learn about the science and art of well-to-well 
 
 <table>
 <tr>
-<td>
+
 
 In this section, attendees will learn about the advanced machine learning techniques of Transformer, Hungarian Matcher, and DETR model. We will provide an introduction to these concepts and explain how they can be applied in various domains of geosciences. Attendees will gain an understanding of the importance of these techniques in improving the performance of models and best practices for their implementation. We will also cover the key considerations when working with these techniques and how to optimize them for specific applications.
 
-</td>
+
 </tr>
 </table>
 
