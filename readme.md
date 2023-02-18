@@ -35,7 +35,7 @@
 
 <table>
 <tr>
-<td>
+
 
 EarthScan is a company dedicated to advancing the field of geoscience through the use of cutting-edge technologies such as machine learning and artificial intelligence. Our team of experts has extensive experience in the oil and gas industry and is committed to developing innovative solutions for some of the most challenging problems in geoscience.
 
@@ -53,7 +53,7 @@ Discover the latest advancements in AI and ML applied to geoscience with our upc
 - Guest speaker sessions on current research and industry developments
 - Tools and technologies for data visualization and model deployment.
   
-</td>
+
 </tr>
 </table>
   
