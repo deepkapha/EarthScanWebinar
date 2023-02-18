@@ -93,7 +93,8 @@ In this section, attendees will have an overview of the topics that will be cove
     - Knowledge of the use case of well-to-well correlation and the potential of deep learning in various domains of geosciences
     - Insight into the key achievements of companies who have implemented AI automation in their operations
        
-    
+---
+
 ### Webinar 2: Unlocking the Power of Data - W2W Correlation, Exploration, and Augmentation Techniques <img src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg width="22" height="22">
 
 <table>
