@@ -36,10 +36,7 @@
 <table>
 <tr>
 
-
-EarthScan is a company dedicated to advancing the field of geoscience through the use of cutting-edge technologies such as machine learning and artificial intelligence. Our team of experts has extensive experience in the oil and gas industry and is committed to developing innovative solutions for some of the most challenging problems in geoscience.
-
-The EarthScan webinars are designed to share our knowledge and expertise with the broader geoscience community. Through a series of interactive sessions, attendees will learn about the latest developments in machine learning and artificial intelligence as applied to geoscience, as well as best practices for data exploration and analysis. Our goal is to provide attendees with the tools and knowledge they need to take their research and projects to the next level.
+The EarthScan webinars are designed to share our knowledge and expertise with the broader data science community. Through a series of interactive sessions, attendees will learn about the latest developments in machine learning and artificial intelligence as applied to geoscience, as well as best practices for data exploration and analysis. Our goal is to provide attendees with the tools and knowledge they need to take their research and projects to the next level.
 
 Webinars will be held every three weeks, and all codes and materials will be made available on GitHub. We welcome attendees from all backgrounds and levels of experience, and look forward to fostering a community of geoscience professionals working at the forefront of technology.
 
