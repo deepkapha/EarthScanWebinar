@@ -64,11 +64,11 @@ Discover the latest advancements in AI and ML applied to geoscience with our upc
 
 <table>
 <tr>
-<td>
+
   
 In this section, attendees will have an overview of the topics that will be covered in the upcoming webinars. These topics will cover the latest advancements in the field of AI and ML applied to geoscience, including techniques for data exploration and analysis, data augmentation techniques, machine learning pipeline design and implementation, advanced machine learning models and their applications, guest speaker sessions on current research and industry developments, and tools and technologies for data visualization and model deployment.
   
-</td>
+
 </tr>
 </table>
 
@@ -76,11 +76,11 @@ In this section, attendees will have an overview of the topics that will be cove
 
 <table>
 <tr>
-<td>
+
 
 In this webinar, we discussed the application of AI and ML in the field of geoscience, with a specific focus on well-to-well correlation. We provided a hands-on learning experience through case studies and gave attendees access to curated notebooks and presentations. Our goal was to help attendees understand the potential of AI in the geoscience industry and provide them with the tools and knowledge to research, develop and deploy their own deep learning applications.
 
-</td>
+
 </tr>
 </table>
 
