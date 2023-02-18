@@ -1,7 +1,6 @@
 <img src="asset/icon.png" align="right" />
 
-# Awesome Geology & AI Webinar with Code 👇 ![image](asset/logo2.png) ![Downloads][downloads-badge]][releases]
-
+# Awesome Geology & AI Webinar with Code 👇 ![image](asset/logo2.png) 
 > Repository for all the reference materials talked about in EarthScan Webinars along with additional resources
 
 <details open="open">
@@ -79,7 +78,7 @@ In this section, attendees will have an overview of the topics that will be cove
 
 | Agenda | #Link to presentation    | 
 | :---:   | :---: |
-| ![alt text](https://github.com/deepkapha/EarthScanWebinar/blob/main/asset/pointing-right-finger-svgrepo-com.svg "Logo Title Text 1")Discussed the application of AI and ML in the field of Energy. Our goal was to help attendees understand the potential of AI in the geoscience industry and provide them with the tools and knowledge to research, develop and deploy their own deep learning applications. | 301   | 
+|Discussed the application of AI and ML in the field of Energy. Our goal was to help attendees understand the potential of AI in the geoscience industry and provide them with the tools and knowledge to research, develop and deploy their own deep learning applications. | 301   | 
 
 
 </tr>
