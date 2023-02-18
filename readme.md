@@ -60,6 +60,10 @@ Discover the latest advancements in AI and ML applied to geoscience with our upc
 
 ## Explore the cutting-edge
 
+| Attempt | #1    | #2    |
+| :---:   | :---: | :---: |
+| In this webinar, we discussed the application of AI and ML in the field of geoscience, with a specific focus on well-to-well correlation. We provided a hands-on learning experience through case studies and gave attendees access to curated notebooks and presentations. Our goal was to help attendees understand the potential of AI in the geoscience industry and provide them with the tools and knowledge to research, develop and deploy their own deep learning applications. | 301   | 283   |
+
 <table>
 <tr>
 
