@@ -31,7 +31,8 @@
 ---
 
 ## About
-![alt text](https://github.com/deepkapha/EarthScanWebinar/blob/main/asset/imga.png "Logo Title Text 1")
+<img src=https://github.com/deepkapha/EarthScanWebinar/blob/main/asset/imga.png width="50" height="50">
+
 <table>
 <tr>
 
