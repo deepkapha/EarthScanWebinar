@@ -42,13 +42,13 @@ Webinars will be held every three weeks, and all codes and materials will be mad
 
 Discover the latest advancements in AI and ML applied to geoscience with our upcoming webinars covering:
 
-- Machine learning and artificial intelligence applied to geoscience
-- Exploration and analysis of geoscientific data
-- Techniques for data augmentation and preprocessing
-- Machine learning pipeline design and implementation
-- Advanced machine learning models and their applications
-- Guest speaker sessions on current research and industry developments
-- Tools and technologies for data visualization and model deployment.
+- *Machine learning and artificial intelligence applied to geoscience*
+- *Exploration and analysis of geoscientific data*
+- *Techniques for data augmentation and preprocessing*
+- *Machine learning pipeline design and implementation*
+- *Advanced machine learning models and their applications*
+- *Guest speaker sessions on current research and industry developments*
+- *Tools and technologies for data visualization and model deployment.*
   
 
 </tr>
