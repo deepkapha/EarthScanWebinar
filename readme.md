@@ -95,8 +95,7 @@ In this section, attendees will have an overview of the topics that will be cove
        
 ---
 
-### Webinar 2: Unlocking the Power of Data - W2W Correlation, Exploration, and Augmentation Techniques <img src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg width="22" height="22">
-
+### Webinar 2: Unlocking the Power of Data - W2W Correlation, Exploration, and Augmentation Techniques <img src=https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg width="22" >
 <table>
 <tr>
 
@@ -121,7 +120,7 @@ In this section, attendees will have an overview of the topics that will be cove
     
 ---
     
-### Webinar 3: The Science and Art of Well-to-Well Correlation - Architecture Design, Modeling & Training Pipeline
+### Webinar 3: The Science and Art of Well-to-Well Correlation - Architecture Design, Modeling & Training Pipeline <img src=https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg width="22" >
 
 <table>
 <tr>
