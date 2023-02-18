@@ -71,7 +71,7 @@ In this section, attendees will have an overview of the topics that will be cove
 </tr>
 </table>
 $\textcolor{olive}{\TeX} \ \textcolor{darkgray}{workaround \ found \ by \ Dassalem \ Mohammed \ Yasser}$
-[![](https://img.shields.io/badge/github-blue?style=for-the-badge)](https://github.com/hamzamohdzubair/redant)
+![](https://img.shields.io/badge/github-blue?style=for-the-badge)
  ### <span style="color:green"> Webinar 1: A Guide to deep learning applications in GEOSCIENCE and SubSurface</span><img src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg width="22" height="22">
 
 <table>
