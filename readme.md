@@ -94,7 +94,7 @@ In this section, attendees will have an overview of the topics that will be cove
     - Insight into the key achievements of companies who have implemented AI automation in their operations
        
     
-### Webinar 2: Unlocking the Power of Data - W2W Correlation, Exploration, and Augmentation Techniques
+### Webinar 2: Unlocking the Power of Data - W2W Correlation, Exploration, and Augmentation Techniques <img src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg width="22" height="22">
 
 <table>
 <tr>
@@ -122,9 +122,11 @@ In this section, attendees will have an overview of the topics that will be cove
 
 <table>
 <tr>
+| Agenda | #Links     | 
+| :---:   | :---: |
+|<p align="justify">![alt text](https://github.com/codex-team/icons/blob/master/src/icons/direction-up-right.svg "Logo Title Text 1")In this section, attendees will learn about the science and art of well-to-well correlation, with a specific focus on the design and implementation of correlation pipelines. We will cover the application of the Aramco paper "Similarity learning for wells based on logging data" in the design of experiments and the use of UNET pretrained models for well-to-well correlation. Attendees will gain an understanding of the best practices for pipeline design and the use of advanced models in well-to-well correlation. Additionally, attendees will get a walkthrough of UNET pretrained models, which are widely used in image segmentation tasks.
+</p>| *TBA*   | 
 
-
-In this section, attendees will learn about the science and art of well-to-well correlation, with a specific focus on the design and implementation of correlation pipelines. We will cover the application of the Aramco paper "Similarity learning for wells based on logging data" in the design of experiments and the use of UNET pretrained models for well-to-well correlation. Attendees will gain an understanding of the best practices for pipeline design and the use of advanced models in well-to-well correlation. Additionally, attendees will get a walkthrough of UNET pretrained models, which are widely used in image segmentation tasks.
 
 
 </tr>
