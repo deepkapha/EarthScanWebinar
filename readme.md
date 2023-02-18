@@ -141,6 +141,8 @@ In this section, attendees will have an overview of the topics that will be cove
     - Understanding well-to-well correlation and the application of the Aramco paper in the design of experiments.
     - Knowledge of the use of UNET pretrained models for well-to-well correlation and their application in image segmentation tasks.
     - Best practices for pipeline design and the use of advanced models in well-to-well correlation.
+    
+ ---
 
 ### Webinar 4: Advanced Machine Learning Techniques - Transformer Model, Hungarian Matcher and DETR Model
 
