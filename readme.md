@@ -10,16 +10,16 @@
 - <details open="open">
     <summary><a href="#explore-the-cutting-edge">Explore the cutting-edge</a></summary>
     <ul>
-      <li><a href="#webinar-1-a-guide-to-deep-learning-applications-in-geoscience-and-subsurface">Webinar 1: A Guide to deep learning applications in GEOSCIENCE and SubSurface</a></li>
+      <li><a href="#webinar-1">Webinar 1: A Guide to deep learning applications in GEOSCIENCE and SubSurface</a></li>
     </ul>
     <ul>
-      <li><a href="#webinar-2-unlocking-the-power-of-data---w2w-correlation-exploration-and-augmentation-techniques">Webinar 2: Unlocking the Power of Data - W2W Correlation, Exploration, and Augmentation Techniques</a></li>
+      <li><a href="#webinar-2">Webinar 2: Unlocking the Power of Data - W2W Correlation, Exploration, and Augmentation Techniques</a></li>
     </ul>
     <ul>
-      <li><a href="#webinar-3-the-science-and-art-of-well-to-well-correlation---architecture-design-modeling--training-pipeline">Webinar 3: The Science and Art of Well-to-Well Correlation - Architecture Design, Modeling & Training Pipeline</a></li>
+      <li><a href="#webinar-3">Webinar 3: The Science and Art of Well-to-Well Correlation - Architecture Design, Modeling & Training Pipeline</a></li>
     </ul>
     <ul>
-      <li><a href="#webinar-4-advanced-machine-learning-techniques---transformer-model-hungarian-matcher-and-detr-model">Webinar 4: Advanced Machine Learning Techniques - Transformer Model, Hungarian Matcher and DETR Model</a></li>
+      <li><a href="#webinar-4">Webinar 4: Advanced Machine Learning Techniques - Transformer Model, Hungarian Matcher and DETR Model</a></li>
     </ul>
     </details>
 - [Additional Resources](#additional-resources)
@@ -73,7 +73,7 @@ In this section, attendees will have an overview of the topics that will be cove
 
 ---
 
-###  Webinar 1: A Guide to deep learning applications in GEOSCIENCE and SubSurface <img src=https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg width="24">
+###  <span id="webinar-1">Webinar 1: A Guide to deep learning applications in GEOSCIENCE and SubSurface</span> <img src=asset/youtube.svg width="24">
 
 <table>
 <tr>
@@ -81,7 +81,7 @@ In this section, attendees will have an overview of the topics that will be cove
 
 | Agenda | #Links     | 
 | :---:   | :---: |
-|<p align="justify">![alt text](https://github.com/codex-team/icons/blob/master/src/icons/direction-up-right.svg "Logo Title Text 1")Discussed the application of AI and ML in the field of Energy. Our goal was to help attendees understand the potential of AI in the geoscience industry and provide them with the tools and knowledge to research, develop and deploy their own deep learning applications.</p>| <li><a href="https://github.com/deepkapha/EarthScanWebinar/blob/main/presentations/week1">Presentation Week 1</a></li>   | 
+|<p align="justify">![alt text](asset/direction-up-right.svg "Logo Title Text 1")Discussed the application of AI and ML in the field of Energy. Our goal was to help attendees understand the potential of AI in the geoscience industry and provide them with the tools and knowledge to research, develop and deploy their own deep learning applications.</p>| <li><a href="https://github.com/deepkapha/EarthScanWebinar/blob/main/presentations/week1">Presentation Week 1</a></li>   | 
 
 
 </tr>
@@ -95,13 +95,14 @@ In this section, attendees will have an overview of the topics that will be cove
        
 ---
 
-### Webinar 2: Unlocking the Power of Data - W2W Correlation, Exploration, and Augmentation Techniques <img src=https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg width="24" >
+###  <span id="webinar-2">Webinar 2: Unlocking the Power of Data - W2W Correlation, Exploration, and Augmentation Techniques</span> <img src=asset/youtube.svg width="24">
+
 <table>
 <tr>
 
 | Agenda | #Links     | 
 | :---:   | :---: |
-|<p align="justify">![alt text](https://github.com/codex-team/icons/blob/master/src/icons/direction-up-right.svg "Logo Title Text 1")In this section, attendees will learn about the latest techniques and technologies used in well-to-well correlation. We will cover data exploration and dataset generation, data augmentation techniques and their application in subsurface applications. Additionally, we will provide an introduction to the previous work on this topic, specifically the Aramco paper "Similarity learning for wells based on logging data". Attendees will gain an understanding of the potential of these techniques and technologies in improving the performance of well-to-well correlation and best practices for their implementation.</p>| *TBA*   | 
+|<p align="justify">![alt text](asset/direction-up-right.svg "Logo Title Text 1")Discussed the use of deep learning in creating good datasets with limited subsurface data. Explored the challenges and opportunities of limited data and the application of deep learning in various domains of Geosciences. Highlighted the importance of data engineering and MLOps framework for building, optimizing, and maintaining data ingestion pipeline. Emphasized the significance of data augmentation to increase the model's ability to generalize, minimize data overfitting, and improve the accuracy of the deep learning model's predictions. Finally, presented the correlation data workflow developed on W2W for identifying groups of test wells based on depth.</p>| *TBA*   | 
 
 
 
@@ -110,26 +111,23 @@ In this section, attendees will have an overview of the topics that will be cove
 
 #### Key takeaways from the webinar:
 
-    - Understanding of the latest techniques and technologies used in well-to-well correlation.
-    - Knowledge of data exploration and dataset generation and data augmentation techniques and their application in subsurface applications.
-    - Introduction to previous work on well-to-well correlation, specifically the Aramco paper "Similarity learning for wells based on logging data".
-    - Understanding of the potential of these techniques and technologies in improving the performance of well-to-well correlation.
-    - Best practices for the implementation of these techniques and technologies.
+    - A good dataset is crucial for the success of a deep learning model.
+    - Data engineering is essential for creating and maintaining a data ingestion pipeline.
+    - MLOps framework is necessary for the entire lifecycle of a deep learning model.
+    - Data augmentation techniques can improve model accuracy and minimize overfitting.
+    - Real-world case studies demonstrate the effectiveness of AI automation in the O and G industry.
+    - W2W correlation data can be used to identify groups of test wells based on depth.
     - Hands-on experience with well-to-well correlation through case studies and exercises.
-    - Gain the skills and knowledge to master the art of well-to-well correlation and take your work to the next level.
     
 ---
-    
-### Webinar 3: SOTA - Architecture Design, Modeling & Training Pipeline <img src=https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg width="24" >
+###  <span id="webinar-3">Webinar 3: SOTA - Architecture Design, Modeling & Training Pipeline</span> <img src=asset/youtube.svg width="24">
 
 <table>
 <tr>
-
-
     
 | Agenda | #Links     | 
 | :---:   | :---: |
-|<p align="justify">![alt text](https://github.com/codex-team/icons/blob/master/src/icons/direction-up-right.svg "Logo Title Text 1")IIn this section, attendees will learn about the latest techniques and technologies used in well-to-well correlation. We will cover data exploration and dataset generation, data augmentation techniques and their application in subsurface applications. Additionally, we will provide an introduction to the previous work on this topic, specifically the Aramco paper "Similarity learning for wells based on logging data". Attendees will gain an understanding of the potential of these techniques and technologies in improving the performance of well-to-well correlation and best practices for their implementation. </p>| *TBA*   | 
+|<p align="justify">![alt text](asset/direction-up-right.svg "Logo Title Text 1")In this section, attendees will learn about the latest techniques and technologies used in well-to-well correlation. We will cover data exploration and dataset generation, data augmentation techniques and their application in subsurface applications. Additionally, we will provide an introduction to the previous work on this topic, specifically the Aramco paper "Similarity learning for wells based on logging data". Attendees will gain an understanding of the potential of these techniques and technologies in improving the performance of well-to-well correlation and best practices for their implementation. </p>| *TBA*   | 
 
 
 
@@ -143,14 +141,15 @@ In this section, attendees will have an overview of the topics that will be cove
     - Best practices for pipeline design and the use of advanced models in well-to-well correlation.
     
  ---
-
-### Webinar 4: Advanced Machine Learning Techniques - Transformer Model, Hungarian Matcher and DETR Model
+###  <span id="webinar-4">Webinar 4: Advanced Machine Learning Techniques - Transformer Model, Hungarian Matcher and DETR Model</span> <img src=asset/youtube.svg width="24">
+### 
 
 <table>
 <tr>
 
-
-In this section, attendees will learn about the advanced machine learning techniques of Transformer, Hungarian Matcher, and DETR model. We will provide an introduction to these concepts and explain how they can be applied in various domains of geosciences. Attendees will gain an understanding of the importance of these techniques in improving the performance of models and best practices for their implementation. We will also cover the key considerations when working with these techniques and how to optimize them for specific applications.
+| Agenda | #Links     | 
+| :---:   | :---: |
+|<p align="justify">![alt text](asset/direction-up-right.svg "Logo Title Text 1")In this section, attendees will learn about the advanced machine learning techniques of Transformer, Hungarian Matcher, and DETR model. We will provide an introduction to these concepts and explain how they can be applied in various domains of geosciences. Attendees will gain an understanding of the importance of these techniques in improving the performance of models and best practices for their implementation. We will also cover the key considerations when working with these techniques and how to optimize them for specific applications. </p>| *TBA*   | 
 
 
 </tr>
