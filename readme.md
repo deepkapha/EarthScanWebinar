@@ -31,7 +31,9 @@
 ---
 
 ## About
-<img src=https://github.com/deepkapha/EarthScanWebinar/blob/main/asset/imga.png width="500" >
+<p align="center">
+  <img src="asset/imga.png" width="500">
+</p>
 
 <table>
 <tr>
