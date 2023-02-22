@@ -75,7 +75,7 @@ In this section, attendees will have an overview of the topics that will be cove
 
 ---
 
-###  <span id="webinar-1">Webinar 1: A Guide to deep learning applications in GEOSCIENCE and SubSurface</span> <a href="https://www.youtube.com/watch?v=mAhys_dqUlk" target=blank><img src=asset/youtube.svg width="24"/></a>
+###  <span id="webinar-1">Webinar 1: A Guide to deep learning applications in GEOSCIENCE and SubSurface</span> <a href="https://www.youtube.com/watch?v=mAhys_dqUlk" target=blank><img src=asset/youtube.svg width="26"/></a>
 
 <table>
 <tr>
@@ -97,8 +97,7 @@ In this section, attendees will have an overview of the topics that will be cove
        
 ---
 
-###  <span id="webinar-2">Webinar 2: Unlocking the Power of Data - W2W Correlation, Exploration, and Augmentation Techniques</span> <img src=asset/youtube.svg width="24">
-
+###  <span id="webinar-2">Webinar 2: Unlocking the Power of Data - W2W Correlation, Exploration, and Augmentation Techniques</span> 
 <table>
 <tr>
 
@@ -122,7 +121,7 @@ In this section, attendees will have an overview of the topics that will be cove
     - Hands-on experience with well-to-well correlation through case studies and exercises.
     
 ---
-###  <span id="webinar-3">Webinar 3: SOTA - Architecture Design, Modeling & Training Pipeline</span> <img src=asset/youtube.svg width="24">
+###  <span id="webinar-3">Webinar 3: SOTA - Architecture Design, Modeling & Training Pipeline</span> 
 
 <table>
 <tr>
@@ -143,7 +142,7 @@ In this section, attendees will have an overview of the topics that will be cove
     - Best practices for pipeline design and the use of advanced models in well-to-well correlation.
     
  ---
-###  <span id="webinar-4">Webinar 4: Advanced Machine Learning Techniques - Transformer Model, Hungarian Matcher and DETR Model</span> <img src=asset/youtube.svg width="24">
+###  <span id="webinar-4">Webinar 4: Advanced Machine Learning Techniques - Transformer Model, Hungarian Matcher and DETR Model</span> 
 ### 
 
 <table>
