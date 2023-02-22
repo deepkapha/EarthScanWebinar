@@ -103,7 +103,7 @@ In this section, attendees will have an overview of the topics that will be cove
 
 | Agenda | #Links     | 
 | :---:   | :---: |
-|<p align="justify">![alt text](asset/direction-up-right.svg "Logo Title Text 1")Discussed the use of deep learning in creating good datasets with limited subsurface data. Explored the challenges and opportunities of limited data and the application of deep learning in various domains of Geosciences. Highlighted the importance of data engineering and MLOps framework for building, optimizing, and maintaining data ingestion pipeline. Emphasized the significance of data augmentation to increase the model's ability to generalize, minimize data overfitting, and improve the accuracy of the deep learning model's predictions. Finally, presented the correlation data workflow developed on W2W for identifying groups of test wells based on depth.</p>| *TBA*   | 
+|<p align="justify">![alt text](asset/direction-up-right.svg "Logo Title Text 1")We disucssed on creating datasets with limited subsurface data and explored deep learning applications in Geosciences. We talked on data engineering, MLOps, and data augmentation to improve accuracy. Additionally, we presented a W2W Correlation dataset development workflow for well correlation.</p>| *TBA*   | 
 
 
 
@@ -112,13 +112,9 @@ In this section, attendees will have an overview of the topics that will be cove
 
 #### Key takeaways from the webinar:
 
-    - A good dataset is crucial for the success of a deep learning model.
-    - Data engineering is essential for creating and maintaining a data ingestion pipeline.
-    - MLOps framework is necessary for the entire lifecycle of a deep learning model.
-    - Data augmentation techniques can improve model accuracy and minimize overfitting.
-    - Real-world case studies demonstrate the effectiveness of AI automation in the O and G industry.
-    - W2W correlation data can be used to identify groups of test wells based on depth.
-    - Hands-on experience with well-to-well correlation through case studies and exercises.
+    - Creating a good dataset is crucial for deep learning success.
+    - Data engineering and MLOps framework are essential for building and maintaining the data ingestion pipeline and the entire lifecycle of a deep learning model.
+    - Data augmentation techniques and real-world case studies demonstrate the effectiveness of AI automation in the O and G industry.
     
 ---
 ###  <span id="webinar-3">Webinar 3: SOTA - Architecture Design, Modeling & Training Pipeline</span> 
