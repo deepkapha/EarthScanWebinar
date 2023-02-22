@@ -1,6 +1,6 @@
 <img src="asset/icon.png" align="right" />
 
-# Awesome Geology & AI Webinar with Code 👇 ![image](asset/logo2.png) 
+# Awesome Geology & AI Webinar with Code 👇 ![image](asset/earthscan.io.png) 
 > Repository for all the reference materials talked about in EarthScan Webinars along with additional resources
 
 <details open="open">
