@@ -75,7 +75,7 @@ In this section, attendees will have an overview of the topics that will be cove
 
 ---
 
-###  <span id="webinar-1">Webinar 1: A Guide to deep learning applications in GEOSCIENCE and SubSurface</span> <img src=asset/youtube.svg width="24">
+###  <span id="webinar-1">Webinar 1: A Guide to deep learning applications in GEOSCIENCE and SubSurface</span> <img href="https://www.youtube.com/watch?v=mAhys_dqUlk" src=asset/youtube.svg width="24">
 
 <table>
 <tr>
