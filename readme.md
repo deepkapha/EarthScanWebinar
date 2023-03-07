@@ -103,7 +103,7 @@ In this section, attendees will have an overview of the topics that will be cove
 
 | Agenda | #Links     | 
 | :---:   | :---: |
-|<p align="justify">![alt text](asset/direction-up-right.svg "Logo Title Text 1")We disucssed on creating datasets with limited subsurface data and explored deep learning applications in Geosciences. We talked on data engineering, MLOps, and data augmentation to improve accuracy. Additionally, we presented a W2W Correlation dataset development workflow for well correlation.</p>| *TBA*   | 
+|<p align="justify">![alt text](asset/direction-up-right.svg "Logo Title Text 1")We disucssed on creating datasets with limited subsurface data and explored deep learning applications in Geosciences. We talked on data engineering, MLOps, and data augmentation to improve accuracy. Additionally, we presented a W2W Correlation dataset development workflow for well correlation.</p>| <li><a href="https://github.com/deepkapha/EarthScanWebinar/blob/main/presentations/week2">Presentation Week 1</a><a href="https://github.com/deepkapha/EarthScanWebinar/blob/main/presentations/week2">Notebook Week 1</a></li>     | 
 
 
 
