@@ -118,7 +118,7 @@ In this section, attendees will have an overview of the topics that will be cove
     - Data augmentation techniques and real-world case studies demonstrate the effectiveness of AI automation in the O and G industry.
     
 ---
-###  <span id="webinar-3">Webinar 3: Optimizers and schedulers through interactive apps</span> 
+###  <span id="webinar-3">Webinar 3: Maximizing Model’s Performance: A Deep Dive into Optimizers and Learning Rate Schedulers​</span> 
 
 ![Screen_Recording_2023-03-07_at_11_33_15_AM_AdobeExpress_1](https://user-images.githubusercontent.com/101086033/223491863-aefce33a-2139-4a09-aaee-47e77bbbe826.gif)
 
@@ -127,7 +127,7 @@ In this section, attendees will have an overview of the topics that will be cove
     
 | Agenda | #Links     | 
 | :---:   | :---: |
-|<p align="justify">![alt text](asset/direction-up-right.svg "Logo Title Text 1")In this section, attendees will learn about the latest techniques and technologies used in well-to-well correlation. We will cover data exploration and dataset generation, data augmentation techniques and their application in subsurface applications. Additionally, we will provide an introduction to the previous work on this topic, specifically the Aramco paper "Similarity learning for wells based on logging data". Attendees will gain an understanding of the potential of these techniques and technologies in improving the performance of well-to-well correlation and best practices for their implementation. </p>| http://ec2-3-145-64-26.us-east-2.compute.amazonaws.com:8502/   | 
+|<p align="justify">![alt text](asset/direction-up-right.svg "Logo Title Text 1") Attendees will learn about optimizers and learning rate schedulers. Interactive and hands on application to check a working optimizer app.</p>| <ul><li><a href="http://ec2-3-145-64-26.us-east-2.compute.amazonaws.com:8502/">Optimizer App</a></li></ul> | 
 
 
 
