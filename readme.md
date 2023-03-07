@@ -117,7 +117,7 @@ In this section, attendees will have an overview of the topics that will be cove
     - Data augmentation techniques and real-world case studies demonstrate the effectiveness of AI automation in the O and G industry.
     
 ---
-###  <span id="webinar-3">Webinar 3: SOTA - Architecture Design, Modeling & Training Pipeline</span> 
+###  <span id="webinar-3">Webinar 3: Optimizers schedulers</span> 
 
 <table>
 <tr>
