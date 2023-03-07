@@ -127,7 +127,7 @@ In this section, attendees will have an overview of the topics that will be cove
     
 | Agenda | #Links     | 
 | :---:   | :---: |
-|<p align="justify">![alt text](asset/direction-up-right.svg "Logo Title Text 1")In this section, attendees will learn about the latest techniques and technologies used in well-to-well correlation. We will cover data exploration and dataset generation, data augmentation techniques and their application in subsurface applications. Additionally, we will provide an introduction to the previous work on this topic, specifically the Aramco paper "Similarity learning for wells based on logging data". Attendees will gain an understanding of the potential of these techniques and technologies in improving the performance of well-to-well correlation and best practices for their implementation. </p>| *TBA*   | 
+|<p align="justify">![alt text](asset/direction-up-right.svg "Logo Title Text 1")In this section, attendees will learn about the latest techniques and technologies used in well-to-well correlation. We will cover data exploration and dataset generation, data augmentation techniques and their application in subsurface applications. Additionally, we will provide an introduction to the previous work on this topic, specifically the Aramco paper "Similarity learning for wells based on logging data". Attendees will gain an understanding of the potential of these techniques and technologies in improving the performance of well-to-well correlation and best practices for their implementation. </p>| http://ec2-3-145-64-26.us-east-2.compute.amazonaws.com:8502/   | 
 
 
 
