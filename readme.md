@@ -118,7 +118,7 @@ In this section, attendees will have an overview of the topics that will be cove
     - Data augmentation techniques and real-world case studies demonstrate the effectiveness of AI automation in the O and G industry.
     
 ---
-###  <span id="webinar-3">Webinar 3: Optimizers schedulers</span> 
+###  <span id="webinar-3">Webinar 3: Optimizers and schedulers through interactive apps</span> 
 
 ![Screen_Recording_2023-03-07_at_11_33_15_AM_AdobeExpress_1](https://user-images.githubusercontent.com/101086033/223491863-aefce33a-2139-4a09-aaee-47e77bbbe826.gif)
 
