@@ -106,6 +106,7 @@ In this section, attendees will have an overview of the topics that will be cove
 |<p align="justify">![alt text](asset/direction-up-right.svg "Logo Title Text 1")We disucssed on creating datasets with limited subsurface data and explored deep learning applications in Geosciences. We talked on data engineering, MLOps, and data augmentation to improve accuracy. Additionally, we presented a W2W Correlation dataset development workflow for well correlation.</p>| *TBA*   | 
 
 
+![Screen_Recording_2023-03-07_at_11_33_15_AM_AdobeExpress_1](https://user-images.githubusercontent.com/101086033/223491863-aefce33a-2139-4a09-aaee-47e77bbbe826.gif)
 
 </tr>
 </table>
@@ -118,6 +119,7 @@ In this section, attendees will have an overview of the topics that will be cove
     
 ---
 ###  <span id="webinar-3">Webinar 3: Optimizers schedulers</span> 
+
 
 <table>
 <tr>
