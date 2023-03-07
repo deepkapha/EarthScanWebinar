@@ -97,7 +97,7 @@ In this section, attendees will have an overview of the topics that will be cove
        
 ---
 
-###  <span id="webinar-2">Webinar 2: Unlocking the Power of Data - W2W Correlation, Exploration, and Augmentation Techniques</span><a href="https://www.youtube.com/live/VkIBVGWOrB8?feature=share" target=blank><img src=asset/youtube.svg width="26"/></a>
+###  <span id="webinar-2">Webinar 2: Unlocking the Power of Data - W2W Correlation, Exploration, and Augmentation Techniques</span> <a href="https://www.youtube.com/live/VkIBVGWOrB8?feature=share" target=blank><img src=asset/youtube.svg width="26"/></a>
 <table>
 <tr>
 
