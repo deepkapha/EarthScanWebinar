@@ -166,7 +166,7 @@ In this section, attendees will have an overview of the topics that will be cove
 
 <li><a href="https://xeek.ai/challenges/force-well-logs">Dataset for W2W Correlation can be downloaded from the challenge: FORCE: Machine Predicted Lithology</a></li>
 <li><a href="https://arxiv.org/abs/1706.03762">Transformer Paper that will be the backbone of our webinars: Attention Is All You Need</a></li>
-<div data-paperform-id="prgpohm3"></div><script>(function() {var script = document.createElement('script'); script.src = "https://paperform.co/__embed.min.js"; document.body.appendChild(script); })()</script>
+
 ## Support
 
 Reach out to peoples mentioned below incase you've any queries that you had regarding webinars
