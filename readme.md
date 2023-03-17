@@ -174,3 +174,11 @@ Reach out to peoples mentioned below incase you've any queries that you had rega
 - <a href="https://www.linkedin.com/in/tannisthamaiti/">Tannistha Maiti</a> (tannistha.maiti@deepkapha.com)
 <!-- - <a href="https://www.linkedin.com/in/tarrysingh/">Tarry Singh</a> (tarry.singh@deepkapha.com)  -->
 
+<div align="center">
+    <kbd>Markdown</kbd> also supports &#9608; <b>HTML</b> &#9608; <i>syntax</i> <!--invisible--> <br/>
+    <a href="http://www.youtube.com/watch?feature=player_embedded&v=vq2jYFZVMDA" target="_blank">
+        <img src="http://img.youtube.com/vi/vq2jYFZVMDA/0.jpg" alt="GitHub Video"
+        border="10" width="460" height="250"/>
+    </a>
+</div>
+
