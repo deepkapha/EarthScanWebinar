@@ -174,6 +174,5 @@ Reach out to peoples mentioned below incase you've any queries that you had rega
 - <a href="https://www.linkedin.com/in/tannisthamaiti/">Tannistha Maiti</a> (tannistha.maiti@deepkapha.com)
 <!-- - <a href="https://www.linkedin.com/in/tarrysingh/">Tarry Singh</a> (tarry.singh@deepkapha.com)  -->
 
-<div data-paperform-id="prgpohm3"></div>
-<script>(function() {var script = document.createElement('script'); script.src = "https://paperform.co/__embed.min.js"; document.body.appendChild(script); })()</script>
+
 
