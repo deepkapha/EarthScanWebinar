@@ -3,6 +3,7 @@
 # Awesome Geology & AI Webinar with Code 👇 ![image](asset/earthscan.io.png) 
 > Repository for all the reference materials talked about in EarthScan Webinars along with additional resources
 ## <a href="https://forms.gle/BKmpSXzHZEAVe3pN9" target=blank><img src=asset/star.png width="26"/></a> WE ARE NOW ACCEPING BETA TESTERS FOR OUR ES RASTER DIGITIZER TOOL <a href="https://forms.gle/BKmpSXzHZEAVe3pN9" target=blank><img src=asset/star.png width="26"/></a>
+Please follow the link to register https://prgpohm3.paperform.co
 <details open="open">
 <summary>Table of Contents</summary>
 
@@ -133,7 +134,7 @@ In this section, attendees will have an overview of the topics that will be cove
 | :---:   | :---: |
 |<p align="justify">![alt text](asset/direction-up-right.svg "Logo Title Text 1") Attendees will learn about optimizers and learning rate schedulers. Interactive and hands on application to check a working optimizer app.</p>| <ul><li><a href="http://ec2-3-145-64-26.us-east-2.compute.amazonaws.com:8502/">Optimizer App</a></li></ul> | 
 
-WE ARE ON BOARDING TESTERS FOR DIGITIZER please follow the link to register https://prgpohm3.paperform.co
+ Please follow the link to register https://prgpohm3.paperform.co
 
 </tr>
 </table>
