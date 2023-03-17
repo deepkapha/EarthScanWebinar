@@ -118,7 +118,7 @@ In this section, attendees will have an overview of the topics that will be cove
     - Data augmentation techniques and real-world case studies demonstrate the effectiveness of AI automation in the O and G industry.
     
 ---
-###  <span id="webinar-3">Webinar 3: Maximizing Model’s Performance: A Deep Dive into Optimizers and Learning Rate Schedulers​</span> 
+###  <span id="webinar-3">Webinar 3: Maximizing Model’s Performance: A Deep Dive into Optimizers and Learning Rate Schedulers</span> 
 
 ![Screen_Recording_2023-03-07_at_11_33_15_AM_AdobeExpress_1](https://user-images.githubusercontent.com/101086033/223491863-aefce33a-2139-4a09-aaee-47e77bbbe826.gif)
 
@@ -154,6 +154,7 @@ WE ARE ON BOARDING TESTERS FOR DIGITIZER please follow the link to register http
 </tr>
 </table>
 
+
 #### Key takeaways from the webinar:
 
     - Understanding of advanced machine learning techniques of Transformer, Hungarian loss, and loss function theory.
@@ -166,7 +167,7 @@ WE ARE ON BOARDING TESTERS FOR DIGITIZER please follow the link to register http
 
 <li><a href="https://xeek.ai/challenges/force-well-logs">Dataset for W2W Correlation can be downloaded from the challenge: FORCE: Machine Predicted Lithology</a></li>
 <li><a href="https://arxiv.org/abs/1706.03762">Transformer Paper that will be the backbone of our webinars: Attention Is All You Need</a></li>
-
+<a href="https://prgpohm3.paperform.co/" target=blank><img src=asset/youtube.svg width="26"/></a>
 ## Support
 
 Reach out to peoples mentioned below incase you've any queries that you had regarding webinars
