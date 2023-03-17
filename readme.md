@@ -2,7 +2,7 @@
 
 # Awesome Geology & AI Webinar with Code 👇 ![image](asset/earthscan.io.png) 
 > Repository for all the reference materials talked about in EarthScan Webinars along with additional resources
-
+## <a href="https://forms.gle/BKmpSXzHZEAVe3pN9" target=blank><img src=asset/star.png width="26"/></a> WE ARE NOW ACCEPING BETA TESTERS FOR OUR ES RASTER DIGITIZER TOOL <a href="https://forms.gle/BKmpSXzHZEAVe3pN9" target=blank><img src=asset/star.png width="26"/></a>
 <details open="open">
 <summary>Table of Contents</summary>
 
@@ -74,7 +74,7 @@ In this section, attendees will have an overview of the topics that will be cove
 </table>
 
 ---
-## <a href="https://forms.gle/BKmpSXzHZEAVe3pN9" target=blank><img src=asset/star.png width="26"/></a> WE ARE NOW ACCEPING BETA TESTERS FOR OUR ES RASTER DIGITIZER TOOL <a href="https://forms.gle/BKmpSXzHZEAVe3pN9" target=blank><img src=asset/star.png width="26"/></a>
+## 
 
 <a href="https://forms.gle/BKmpSXzHZEAVe3pN9" target=blank><img src=asset/star.png width="26"/></a>
 
