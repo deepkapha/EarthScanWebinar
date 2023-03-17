@@ -167,7 +167,7 @@ WE ARE ON BOARDING TESTERS FOR DIGITIZER please follow the link to register http
 
 <li><a href="https://xeek.ai/challenges/force-well-logs">Dataset for W2W Correlation can be downloaded from the challenge: FORCE: Machine Predicted Lithology</a></li>
 <li><a href="https://arxiv.org/abs/1706.03762">Transformer Paper that will be the backbone of our webinars: Attention Is All You Need</a></li>
-<a href="https://prgpohm3.paperform.co/" target=blank><img src=asset/youtube.svg width="26"/></a>
+
 ## Support
 
 Reach out to peoples mentioned below incase you've any queries that you had regarding webinars
