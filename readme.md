@@ -129,7 +129,7 @@ In this section, attendees will have an overview of the topics that will be cove
 | :---:   | :---: |
 |<p align="justify">![alt text](asset/direction-up-right.svg "Logo Title Text 1") Attendees will learn about optimizers and learning rate schedulers. Interactive and hands on application to check a working optimizer app.</p>| <ul><li><a href="http://ec2-3-145-64-26.us-east-2.compute.amazonaws.com:8502/">Optimizer App</a></li></ul> | 
 
-
+WE ARE ON BOARDING TESTERS FOR DIGITIZER please follow the link to register https://prgpohm3.paperform.co
 
 </tr>
 </table>
