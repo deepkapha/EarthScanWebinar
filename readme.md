@@ -146,9 +146,9 @@ In this section, attendees will have an overview of the topics that will be cove
  ---
 ###  <span id="webinar-4">Webinar 4: Real-time monitoring of Solar PV panels using deep learning and advanced drone technology</span> 
 ### 
-
-<table>
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/101086033/227480385-0ee5a960-fa2d-4ae7-bf9e-927fd2e7ee24.gif)
+<table>
+
 
 <tr>
 
