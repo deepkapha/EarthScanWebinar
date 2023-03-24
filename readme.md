@@ -145,7 +145,7 @@ In this section, attendees will have an overview of the topics that will be cove
     - Interactive streamlit application to understand how fast optimizers converge.
     
  ---
-###  <span id="webinar-4">Webinar 4: Advanced Machine Learning Techniques - Transformer Model, Hungarian Matcher and DETR Model</span> 
+###  <span id="webinar-4">Webinar 4: Real-time monitoring of Solar PV panels using deep learning and advanced drone technology</span> 
 ### 
 
 <table>
