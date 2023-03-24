@@ -148,11 +148,13 @@ In this section, attendees will have an overview of the topics that will be cove
 ### 
 
 <table>
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/101086033/227480385-0ee5a960-fa2d-4ae7-bf9e-927fd2e7ee24.gif)
+
 <tr>
 
 | Agenda | #Links     | 
 | :---:   | :---: |
-|<p align="justify">![alt text](asset/direction-up-right.svg "Logo Title Text 1")In this section, attendees will learn about the advanced machine learning techniques of Transformer, Hungarian Matcher, and DETR model. We will provide an introduction to these concepts and explain how they can be applied in various domains of geosciences. Attendees will gain an understanding of the importance of these techniques in improving the performance of models and best practices for their implementation. We will also cover the key considerations when working with these techniques and how to optimize them for specific applications. </p>| *TBA*   | 
+|<p align="justify">![alt text](asset/direction-up-right.svg "Logo Title Text 1")In this section, attendees will learn how we are using drone technology to gather images and then we are using machine learning models and highly efficient convolution neural network architecture to detect anomalies. We will provide an introduction to these concepts and explain how they can be applied in various domains of anomaly detection. We also provided a live demo video of the same. </p>| *TBA*   | 
 
 
 </tr>
@@ -161,11 +163,11 @@ In this section, attendees will have an overview of the topics that will be cove
 
 #### Key takeaways from the webinar:
 
-    - Understanding of advanced machine learning techniques of Transformer, Hungarian loss, and loss function theory.
-    - Introduction to these concepts and an explanation of their application in various domains of geosciences.
-    - Understanding of the importance of these techniques in improving the performance of models.
+    - Understanding of advanced machine learning techniques for anomaly detection in solar PV modules.
+    - Introduction to these drone technology and the dataset used.
+    - Understanding of the importance of these methods to detect the anomalies on the module.
     - Best practices for implementation of these techniques.
-    - Key considerations when working with these techniques and how to optimize them for specific applications.
+    - Application for easy understanding and for easy usage of the model.
 
 ## Additional Resources
 
