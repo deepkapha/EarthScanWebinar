@@ -2,9 +2,6 @@
 
 # Awesome Geology & AI Webinar with Code 👇 ![image](asset/earthscan.io.png) 
 > Repository for all the reference materials talked about in EarthScan Webinars along with additional resources
-## <a href="https://forms.gle/BKmpSXzHZEAVe3pN9" target=blank><img src=asset/star.png width="26"/></a> WE ARE NOW ACCEPING BETA TESTERS FOR OUR ES RASTER DIGITIZER TOOL <a href="https://forms.gle/BKmpSXzHZEAVe3pN9" target=blank><img src=asset/star.png width="26"/></a>
-Please follow the link to register https://prgpohm3.paperform.co
-<details open="open">
 <summary>Table of Contents</summary>
 
 - [About](#about)
